@@ -3,7 +3,7 @@
     "node": "20.x"
   },
     "overrides": {
-      "foo": "1.0.0"
+      "cloudinary": "^2.1.0"
     },
   "name": "project-final",
   "version": "1.0.0",
